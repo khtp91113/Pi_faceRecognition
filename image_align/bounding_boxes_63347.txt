@@ -1,0 +1,7 @@
+/home/daniel/image_align/ChunChi_Fang/ChunChi_Fang_0002_0.png 86 60 156 138
+/home/daniel/image_align/ChunChi_Fang/ChunChi_Fang_0001_0.png 44 99 182 264
+/home/daniel/image_align/ChunChi_Fang/ChunChi_Fang_0003_0.png 822 920 1591 1981
+/home/daniel/image_align/YunZhan_Cai/YunZhan_Cai_0001_0.png 1207 1255 1796 1994
+/home/daniel/image_align/YunZhan_Cai/YunZhan_Cai_0003_0.png 76 151 159 241
+/home/daniel/image_align/YunZhan_Cai/YunZhan_Cai_0004_0.png 219 225 458 496
+/home/daniel/image_align/YunZhan_Cai/YunZhan_Cai_0002_0.png 319 267 386 342

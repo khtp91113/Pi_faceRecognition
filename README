@@ -1,0 +1,10 @@
+Adding new person:
+1. put training image in image/{person_name}/ folder
+2. run align_and_create_pickle.sh script
+3. update name_mapping.json
+4. restart server.py
+
+#############################
+Webpage run on localhost:5000
+#############################
+Pre-trained model downloaded from https://github.com/davidsandberg/facenet
